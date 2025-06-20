@@ -10,7 +10,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimdaniel&show_icons=true&theme=tokyonight)
 
-![Streak Stats](https://streak-stats.demolab.com?user=hakimdaniel&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hakimdaniel)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimdaniel&layout=compact&theme=tokyonight)
 
