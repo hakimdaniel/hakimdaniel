@@ -10,6 +10,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimdaniel&show_icons=true&theme=tokyonight)
 
+![hakimdaniel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hakimdaniel&theme=monokai&hide_border=false)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimdaniel&layout=compact&theme=tokyonight)
 
 <h1 align="center">🔧 Engineering Project</h1>
