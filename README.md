@@ -51,7 +51,7 @@ It serves both as a knowledge portfolio and a testbed for experiments.
 | Tech          | Use                        |
 |---------------|-----------------------------|
 | Python        | Main language               |
-| Arduino C     | Microcontroller programming |
+| Hobbies     | Programming, learn computer |
 | Git & GitHub  | Version control             |
 | Markdown      | Documentation               |
 
