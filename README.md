@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20progress-yellow" alt="Project Status">
-  <img src="https://img.shields.io/github/contributors/hakimdaniel" alt="Contributors">
-  <img src="https://img.shields.io/github/license/hakimdaniel" alt="License">
+  <img src="https://img.shields.io/github/contributors/hakimdaniel/app" alt="Contributors">
+  <img src="https://img.shields.io/github/license/hakimdaniel/hakimdaniel.github.io" alt="License">
 </p>
 
 ---
